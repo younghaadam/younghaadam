@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Kehinde</h1>
-<h3 align="center">A passionate Full-Stack developer from Nigeria, As a versatile and skilled developer, I bring expertise in HTML, CSS, JavaScript, React, and Firebase to the table. With a strong foundation in front-end technologies, I have honed my ability to create captivating and responsive user interfaces. Leveraging React and Firebase, I develop dynamic web applications that are not only visually appealing but also backed by real-time data and seamless authentication.</h3>
+<h3 align="center">A passionate Full-Stack developer from Nigeria. I am a versatile and skilled developer, I bring expertise in HTML, CSS, JavaScript, React, React Native and Firebase to the table. With a strong foundation in front-end technologies, I have honed my ability to create captivating and responsive user interfaces. Leveraging React and Firebase, I develop dynamic web applications that are not only visually appealing but also backed by real-time data and seamless authentication.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younghaadam&label=Profile%20views&color=0e75b6&style=flat" alt="younghaadam" /> </p>
 
