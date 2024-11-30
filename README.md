@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Adam Kehinde</h1>
+<h1 align="center">Hi, I'm Adam Kehinde</h1>
 <h3 align="center">I am a passionate Full-Stack developer skilled in HTML, CSS, JavaScript, React, React Native, Node.js, Express, and Firebase. I create responsive user interfaces and develop scalable backend applications, leveraging real-time data and seamless authentication for dynamic web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younghaadam&label=Profile%20views&color=0e75b6&style=flat" alt="younghaadam" /> </p>
